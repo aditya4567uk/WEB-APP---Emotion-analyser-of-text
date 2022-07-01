@@ -1,1 +1,1 @@
-# WEB-APP---Emotion-analyser-of-text
+# WEB-APP---Emotion-analyzer-of-text
